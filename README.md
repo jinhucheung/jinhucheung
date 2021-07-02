@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinhucheung&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
-
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **jinhucheung/jinhucheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![jinhucheung's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jinhucheung&layout=compact)
+![jinhucheung's github stats](https://github-readme-stats.vercel.app/api?username=jinhucheung&show_icons=true&count_private=true&hide_title=true)
